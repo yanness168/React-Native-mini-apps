@@ -2,4 +2,4 @@
 
 The Home Page:
 
-![My Image](../assets/Loading in await.png)
+![My Image](./assets/Loading in await.png)
